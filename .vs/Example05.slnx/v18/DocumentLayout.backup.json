@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NHT.LTW\\Example05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E223B3-C9B1-D5A9-4B42-0ECBD8A8B1AB}|Example05\\Example05.csproj|d:\\nht.ltw\\example05\\example05\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3E223B3-C9B1-D5A9-4B42-0ECBD8A8B1AB}|Example05\\Example05.csproj|solutionrelative:example05\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E223B3-C9B1-D5A9-4B42-0ECBD8A8B1AB}|Example05\\Example05.csproj|d:\\nht.ltw\\example05\\example05\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E223B3-C9B1-D5A9-4B42-0ECBD8A8B1AB}|Example05\\Example05.csproj|solutionrelative:example05\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E223B3-C9B1-D5A9-4B42-0ECBD8A8B1AB}|Example05\\Example05.csproj|d:\\nht.ltw\\example05\\example05\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3E223B3-C9B1-D5A9-4B42-0ECBD8A8B1AB}|Example05\\Example05.csproj|solutionrelative:example05\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E223B3-C9B1-D5A9-4B42-0ECBD8A8B1AB}|Example05\\Example05.csproj|d:\\nht.ltw\\example05\\example05\\models\\datamodels\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E223B3-C9B1-D5A9-4B42-0ECBD8A8B1AB}|Example05\\Example05.csproj|solutionrelative:example05\\models\\datamodels\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NHT.LTW\\Example05\\Example05\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "Example05\\Views\\Member\\Create.cshtml",
+              "ToolTip": "D:\\NHT.LTW\\Example05\\Example05\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "Example05\\Views\\Member\\Create.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T01:27:19.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NHT.LTW\\Example05\\Example05\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "Example05\\Views\\Member\\Index.cshtml",
+              "ToolTip": "D:\\NHT.LTW\\Example05\\Example05\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "Example05\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T01:26:28.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "D:\\NHT.LTW\\Example05\\Example05\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Example05\\Controllers\\MemberController.cs",
+              "ToolTip": "D:\\NHT.LTW\\Example05\\Example05\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Example05\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:25:35.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\NHT.LTW\\Example05\\Example05\\Models\\DataModels\\Member.cs",
+              "RelativeDocumentMoniker": "Example05\\Models\\DataModels\\Member.cs",
+              "ToolTip": "D:\\NHT.LTW\\Example05\\Example05\\Models\\DataModels\\Member.cs",
+              "RelativeToolTip": "Example05\\Models\\DataModels\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:24:37.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

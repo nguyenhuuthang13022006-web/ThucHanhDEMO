@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Example05.Models.DataModels.Member>
+
+@{
+    ViewData["Title"] = "Danh sách thành viên";
+}
+
+<h2>Danh sách thành viên</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Thêm thành viên</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Tên đăng nhập</th>
+            <th>Họ và tên</th>
+            <th>Email</th>
+            <th>Điện thoại</th>
+            <th>Ngày sinh</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var member in Model)
+        {
+            <tr>
+                <td>@member.UserName</td>
+                <td>@member.FullName</td>
+                <td>@member.Email</td>
+                <td>@member.Phone</td>
+                <td>@member.Birthday.ToString("dd/MM/yyyy")</td>
+            </tr>
+        }
+    </tbody>
+</table>
